@@ -36,7 +36,7 @@ public class Solution_GetLength_LongestIncreasingSubsequence {
 	}
 
 	/**
-	 * The methods calculates the length of the longest increasing subsequence. In
+	 * The method calculates the length of the longest increasing subsequence. In
 	 * order to get time complexity of (n*log(n)) a working array "increasingValues"
 	 * and a helper method for binary search are applied.
 	 * 

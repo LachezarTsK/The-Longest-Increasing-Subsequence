@@ -3,7 +3,7 @@
 
 HackerRank>Practice>Algorithms>Dynamic Programming>The Longest Increasing Subsequence
 
-https://www.hackerrank.com/challenges/longest-increasing-subsequence-arrays/problem
+https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem
 
 File "Solution_GetLength_LongestIncreasingSubsequence.java" presents the solution to the originally stated problem in HackerRank, namely finding only the length of the longest increasing subsequence.
 
